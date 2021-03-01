@@ -1,0 +1,15 @@
+.player {
+    display: flex;
+    margin-bottom: 30px;
+    margin-right: 10px;
+    padding-bottom: 5px;
+    background-color: rgb(245, 245, 245);
+    border-radius: 1px solid rgb(209, 207, 207);
+}
+.player img {
+    width: 70%;
+}
+.player-name {
+    color: rebeccapurple;
+    font-weight: 400;
+}
